@@ -1,0 +1,11 @@
+C:\Users\PHILIP\source\repos\OrganizationProfiles\OrganizationProfiles\bin\Debug\OrganizationProfiles.exe.config
+C:\Users\PHILIP\source\repos\OrganizationProfiles\OrganizationProfiles\bin\Debug\OrganizationProfiles.exe
+C:\Users\PHILIP\source\repos\OrganizationProfiles\OrganizationProfiles\bin\Debug\OrganizationProfiles.pdb
+C:\Users\PHILIP\source\repos\OrganizationProfiles\OrganizationProfiles\obj\Debug\OrganizationProfiles.csprojAssemblyReference.cache
+C:\Users\PHILIP\source\repos\OrganizationProfiles\OrganizationProfiles\obj\Debug\OrganizationProfiles.frmRegisteration.resources
+C:\Users\PHILIP\source\repos\OrganizationProfiles\OrganizationProfiles\obj\Debug\OrganizationProfiles.Properties.Resources.resources
+C:\Users\PHILIP\source\repos\OrganizationProfiles\OrganizationProfiles\obj\Debug\OrganizationProfiles.csproj.GenerateResource.cache
+C:\Users\PHILIP\source\repos\OrganizationProfiles\OrganizationProfiles\obj\Debug\OrganizationProfiles.csproj.CoreCompileInputs.cache
+C:\Users\PHILIP\source\repos\OrganizationProfiles\OrganizationProfiles\obj\Debug\OrganizationProfiles.exe
+C:\Users\PHILIP\source\repos\OrganizationProfiles\OrganizationProfiles\obj\Debug\OrganizationProfiles.pdb
+C:\Users\PHILIP\source\repos\OrganizationProfiles\OrganizationProfiles\obj\Debug\OrganizationProfiles.frmConfirmation.resources
